@@ -1,25 +1,3 @@
-# Markdown project
-This is the first page!
-
-This is the first page!
-
-This is the first page!
-
-<!--
-# About readme
-hey, it's me!!!
-
-## Testing H2
-this is an h2
-## testing h2
-really, that's all you could think of?
-### testing h3
-yupp, am that person!
--->
-
-
-
-<!--
 - **OVERVIEW**
   - [Introduction](introduction)
   - [Who is a technical writer](technical-writer)
@@ -38,7 +16,7 @@ yupp, am that person!
   - [Tables](tables)
   - [FAQs](faqs)
   - [Embed a video](embed-a-video)
--->
+
 
 <!-- 
 
@@ -80,3 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 -->
+>>>>>>> 7f85b840e4b5624b3e3f1536e98d8203a08e08c3
